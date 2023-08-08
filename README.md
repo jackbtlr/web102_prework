@@ -20,7 +20,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/RfUTqYq' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/RfUTqYq.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap
